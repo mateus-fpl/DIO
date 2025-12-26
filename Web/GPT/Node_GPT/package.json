@@ -1,0 +1,19 @@
+{
+  "name": "node_gpt",
+  "version": "1.0.0",
+  "description": "Servidor para Chat GPT Clone",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node --watch src/server.js",
+    "test": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "openai": "^4.0.0" 
+  }
+}
