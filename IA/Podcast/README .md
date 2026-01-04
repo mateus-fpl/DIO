@@ -70,6 +70,14 @@ O conteúdo foi pensado para ter uma linguagem leve, moderna e próxima do forma
 
 ---
 
+## 🎙️ Episódio do Podcast
+
+🎧 Clique abaixo para ouvir ou baixar o episódio:
+
+👉 [Ouvir / Baixar Podcast](assets/podcast-machine-learning.mp3)
+
+---
+
 ## 🚀 Resultado Final
 - ✔️ Podcast educativo  
 - ✔️ Linguagem acessível  
