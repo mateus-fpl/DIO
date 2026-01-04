@@ -31,12 +31,6 @@ Cada seção foi pensada como uma “página”, com:
 
 ---
 
-## 📥 Download do eBook
-
-📘 **[Clique aqui para baixar o eBook em PDF](output/assets/Python_para_Machine_Learning_Primeiros_Passos (1).pdf)**
-
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 - Python (conceitual)
