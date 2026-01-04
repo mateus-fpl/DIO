@@ -1,7 +1,7 @@
 # 🎙️ Podcast: Machine Learning com Python — Primeiros Passos
 
-<p aling="center">
-  <img src="assets/banner_machine_learning.png width=600>
+<p align="center">
+  <img src="assets/banner_machine_learning.png" width="600" alt="Banner Machine Learning">
 </p>
 
 ## 📌 Descrição
@@ -20,11 +20,11 @@ O conteúdo foi pensado para ter uma linguagem leve, moderna e próxima do forma
 ---
 
 ## 🧠 Conteúdo do Episódio
-- O que é Machine Learning na prática  
-- Como algoritmos aprendem com dados  
-- Por que Python é tão usado em IA  
-- Importância dos dados no aprendizado de máquina  
-- Dicas para quem está começando na área  
+- O que é Machine Learning na prática
+- Como algoritmos aprendem com dados
+- Por que Python é tão usado em IA
+- Importância dos dados no aprendizado de máquina
+- Dicas para quem está começando na área
 
 📌 **Formato:** Podcast  
 📌 **Duração aproximada:** 6 minutos  
@@ -33,56 +33,42 @@ O conteúdo foi pensado para ter uma linguagem leve, moderna e próxima do forma
 ---
 
 ## 🤖 Tecnologias e IAs Utilizadas
-- **GPT (OpenAI)**  
-  - Geração do roteiro/texto do podcast  
-  - Estruturação do conteúdo no padrão DIO  
-
-- **ElevenLabs**  
-  - Conversão do texto em áudio (Text-to-Speech)  
-  - Geração da voz narrada do podcast  
+- **GPT (OpenAI)** - Geração do roteiro e estruturação do conteúdo.
+- **ElevenLabs** - Conversão do texto em áudio com voz humanizada.
 
 ---
 
 ## 🧾 Prompts Utilizados
 
-### Prompt inicial do desafio (eBook / Podcast)
-> Faça um prompt focado em python para machine learning de maneira simples.  
-> Coloque algum subtítulo como primeiros passos ou algo assim.  
-> Faça uma capa bastante chamativa, que enfatiza a relação entre Python e o machine learning.  
-> Quero que cada página tenha o título numa letra chamativa em negrito.  
-> As informações não precisam ter muito texto, tá mais para pequenos tópicos.
-
----
-
-### Prompt para o Podcast
-> Faça um texto para podcast sobre machine learning e python.  
-> Deixe no formato da DIO e faça o texto parecer uma conversa bem informal, como os podcasts atuais.  
-> Adapte para somente uma voz, mas deixe mais animado.  
-> Não coloque marcações de pausa ou respiração.  
-> Duração aproximada de seis minutos.
-
----
-
-## 📢 Observações Importantes
-- Todo o conteúdo textual foi **gerado por IA (GPT)**  
-- O áudio foi **gerado por IA (ElevenLabs)**  
-- **Revisão humana aplicada** para ajustes de clareza, fluidez e adequação ao desafio
+### Prompt para o Roteiro
+> "Faça um texto para podcast sobre machine learning e python. Deixe no formato da DIO e faça o texto parecer uma conversa bem informal, como os podcasts atuais. Adapte para somente uma voz, mas deixe mais animado. Não coloque marcações de pausa ou respiração. Duração aproximada de seis minutos."
 
 ---
 
 ## 🎙️ Episódio do Podcast
 
-🎧 Clique abaixo para ouvir ou baixar o episódio:
+🎧 **Dê o play abaixo para ouvir:**
 
-👉 [Ouvir / Baixar Podcast](assets/podcast-machine-learning.mp3)
+<audio controls>
+  <source src="assets/machine-learning.mp3" type="audio/mpeg">
+  Seu navegador não suporta o player de áudio.
+</audio>
+
+> 🔗 [Clique aqui para baixar o arquivo MP3](assets/machine-learning.mp3)
+
+---
+
+## 📢 Observações Importantes
+- Todo o conteúdo textual foi **gerado por IA (GPT)**.
+- O áudio foi **gerado por IA (ElevenLabs)**.
+- **Revisão humana aplicada** para ajustes de clareza e fluidez.
 
 ---
 
 ## 🚀 Resultado Final
-- ✔️ Podcast educativo  
-- ✔️ Linguagem acessível  
-- ✔️ Conteúdo alinhado ao nível iniciante  
-- ✔️ Projeto pronto para portfólio e GitHub  
+- ✔️ Podcast educativo pronto para portfólio.
+- ✔️ Linguagem acessível para iniciantes.
+- ✔️ Uso prático de ferramentas de IA Generativa.
 
 ---
 
