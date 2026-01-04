@@ -1,5 +1,8 @@
 # 🤖 Machine Learning na Prática: Como Algoritmos Aprendem com Dados
 
+![Machine Learning na Prática](assets/banner-machine-learning.png)
+
+
 ## 📌 Sobre o projeto
 Este repositório faz parte de um desafio proposto pela DIO e tem como objetivo apresentar, de forma simples e acessível, os conceitos básicos de Machine Learning. O foco é explicar como os algoritmos aprendem a partir de dados, utilizando uma linguagem leve, didática e voltada para iniciantes.
 
