@@ -2,7 +2,7 @@
 
 <p aling="center">
   <img src="assets/banner_machine_learning.png width=600>
-/p>
+</p>
 
 ## 📌 Descrição
 Este projeto faz parte de um desafio da **DIO (Digital Innovation One)** e consiste na criação de um **episódio curto de podcast** abordando **Machine Learning com Python**, de forma simples, direta e acessível para iniciantes na área de tecnologia.
