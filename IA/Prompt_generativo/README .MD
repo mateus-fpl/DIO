@@ -1,6 +1,6 @@
 # 🤖 Machine Learning na Prática: Como Algoritmos Aprendem com Dados
 
-![Machine Learning na Prática](assets/banner_ml.png)
+![Machine Learning na Prática]<img src="assets/banner_ml.png" width="300">
 
 
 ## 📌 Sobre o projeto
