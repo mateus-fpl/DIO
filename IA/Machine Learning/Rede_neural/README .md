@@ -22,4 +22,4 @@ Diferente da programação tradicional, este software aprendeu a diferenciar os 
 
 ## 📸 Resultado Final
 
-O sistema foi validado com sucesso, alcançando **100.00% de confiança** na identificação do
+O sistema foi validado com sucesso, alcançando **100.00% de confiança** na identificação do personagem.
