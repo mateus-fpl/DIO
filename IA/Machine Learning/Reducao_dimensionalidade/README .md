@@ -12,8 +12,3 @@ Transformar uma imagem colorida (RGB) em:
 * **Cálculo de Média**: Cada pixel cinza é a média aritmética dos valores de Vermelho, Verde e Azul:  
   `cinza = (R + G + B) // 3`
 * **Limiarização**: Se `cinza > 127`, o pixel torna-se branco (255), caso contrário, preto (0).
-
-## 📸 Resultados
-| Original | Cinza | Binarizada |
-| :---: | :---: | :---: |
-| Bruce.ppm | Bruce_cinza.ppm | Bruce_preto_e_branco.ppm |
